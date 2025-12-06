@@ -1,0 +1,54 @@
+/*.main
+{
+    background: url(img.png)no-repeat;
+    background-size: cover;
+    width: 900px;
+    height: 950px;
+}*/
+.main h5{
+    font: size 4.4rem;
+    font-weight: 700;
+}
+.main h6{
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    line-height: 1;
+    border-bottom: 3px solid rgb(163, 25, 82);
+    width:40%;
+}
+.main .bt1
+{
+    height: 55px;
+    width:138px;
+    background-color:rgb(204, 66, 11);
+    color: black;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.main .bt1:hover{
+    background-color: rgb(204, 66, 11);
+    transition: 0.5s;
+}
+.main .bt2
+{
+    height: 55px;
+    width:138px;
+    background-color: transparent;
+    color:white;
+    outline: none;
+    border: 1px solid white;
+    font-weight: bold;
+    border-radius: 20px;
+}
+.main .bt2:hover{
+    background-color:orange;
+    transition: 0.5s;
+    color:white;
+
+}
+.main h1{
+    color: white;
+    font-weight: 900;
+}
